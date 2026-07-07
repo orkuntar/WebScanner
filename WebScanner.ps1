@@ -1,8 +1,3 @@
- # Orkun Tarhan Web Scanner
-Write-Host "========================================="
-Write-Host "        Orkun Tarhan Web Scanner         "
-Write-Host "=========================================`n"
-
 # Ask for target URL
 $target = Read-Host "Enter the full target URL (e.g., https://example.com)"
 
